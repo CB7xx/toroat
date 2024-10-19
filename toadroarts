@@ -29,7 +29,7 @@ noises = {'rbxassetid://230287740','rbxassetid://271787597','rbxassetid://153752
 
 sound = coroutine.create(function()
    a = Instance.new("Sound",workspace)
-   a.SoundId = "rbxassetid://6783714255"
+   a.SoundId = "rbxassetid://16073608156"
    a.Name = "RAINING MEN"
    a.Volume = 58359
    a.Looped = true
